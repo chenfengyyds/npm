@@ -1,0 +1,11 @@
+{
+  "name": "chenfengblog",
+  "version": "1.0.4",
+  "description": "chenfeng_blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenfeng",
+  "license": "ISC"
+}
